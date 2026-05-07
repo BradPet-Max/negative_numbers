@@ -1,0 +1,33 @@
+1.1 - Assume that b > cd, if c is replaced with -c does the property still hold?
+b > cd
+
+f c is replaced with -c, the expression becomes:
+b > -cd
+
+No, the property does not always hold because changing a positive value to a negative value changes the inequality.
+
+1.2 - Provide an example of d > e and -d < -e.
+8 > 3
+
+When both numbers are multiplied by -1:
+-8 < -3
+
+d > e and -d < -e is True
+
+
+1.3 - Calculate - (8)^2
+This will be -64
+
+
+1.4 - The square root(y) = 5, what is the value of y?
+
+√y = 5
+And will square both sides 
+
+The answer is 25
+
+
+1.5 - Express a - (-b) without using the “-” symbol
+a - (-b)
+
+Answer is a + b
